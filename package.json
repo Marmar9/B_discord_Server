@@ -6,6 +6,7 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
+    "cassandra-driver": "^4.6.4",
     "elysia": "latest",
     "socket-io": "^1.0.0",
     "socket.io": "^4.7.2"
